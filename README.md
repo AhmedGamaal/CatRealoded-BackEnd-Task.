@@ -1,6 +1,12 @@
 # CatRealoded-BackEnd-Task.
-
-
+## Build Something Useful!
+**User Registration and Authentication System**\
+1- I created a file as a storage for users information -> **Username, Email, Password**.\
+2- An infinite loop for the user to do more than one thing, such as register, then login, or exit.\
+3- In the loop, the user will choose one of 3 options, and the system will make the choice based on that.\
+4- The registration method takes the username, email and password from the user and checks if he has registered before. It will tell him to try another email.\
+5- In the login method, make sure that the email exists, and if it exists, make sure that the password that the user entered is appropriate for the email or not.\
+6- and there is a third choice --> Exit -> it terminates the program.
 
 
 
@@ -11,7 +17,7 @@ This program takes a string input from the user. It increments or decrements a c
 1- First made a string variable --> s.\
 2- intialized to variables --> Counter = zero , n --> The Length of the string.\
 3- Make a Loop that go through the string characters and compare a pair of characters then Increments or decrements the counter.\
-4- Finally print the counter.\
+4- Finally print the counter.
 
 
 ## Okay Now SQL Challenges Task:
