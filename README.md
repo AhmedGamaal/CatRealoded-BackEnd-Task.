@@ -1,6 +1,24 @@
 # CatRealoded-BackEnd-Task.
+## Welcome!
+
+Hi, I'm Ahmed Gamal! Thank you for checking out this repository. This repository showcases a **Back-End Task for the CatRealoded Team**, Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions.
+
+Enjoy!
+
+
 ## Build Something Useful!
-**User Registration and Authentication System**\
+**User Registration and Authentication System**
+## Features
+1.**User Registration:**\
+Accepts Username, Email, and Password.\
+Checks if the email is already registered and prompts the user to try another email if it is.\
+2.**User Login:**\
+Verifies if the provided Email exists.\
+Confirms that the Password matches the registered email.\
+3.**Exit:**\
+Terminates the program.
+
+#### Steps:
 1- I created a file as a storage for users information -> **Username, Email, Password**.\
 2- An infinite loop for the user to do more than one thing, such as register, then login, or exit.\
 3- In the loop, the user will choose one of 3 options, and the system will make the choice based on that.\
